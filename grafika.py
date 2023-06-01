@@ -63,6 +63,8 @@ tlo_uciekania2 = pygame.transform.scale(
     pygame.image.load("grafiki/tlo_ucuekaniexcf.png"), (width, height*3))
 ziomus_od_tylu = pygame.transform.scale(
     pygame.image.load("grafiki/ziomus_od_tylu.png"), (14*7, 29*7))
+lis = pygame.transform.scale(
+    pygame.image.load("grafiki/lis.png"), (11*7, 20*7))
 
 # Klatki ekran przegranej
 grob = pygame.transform.scale(
